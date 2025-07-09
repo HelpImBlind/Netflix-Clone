@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "bgImage": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABaaNARSazDYjPyMukpPHzbWoyKfzEO5mGvdE3YNjzLmwsJV8leB7zrPkowCLZ0En5BAztW5t2V4pNzTfpTuH9IRF5qjrEQqcwN_OpnxSyBldSsVsSxbmR1LRLbfkB_MWwezaP621hsfVGS4DEldww-B186F6hLCSV71XKPJepdxtM7vK0f26bQTlOdwAY4KDFzNRrZqxAVCAH7Vo.jpg?r=d51",
+        "modalId": "middle-center-modal-1",
+        "alt": "Unseen"
+    },
+    {
+        "id": 2,
+        "bgImage": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABU7FdVbQQx3MWkPQ06AsKHb3oZ4K63YifAE9ckh9PCXjSs3P0uWE4o_mX9ibcaAQjtdCySTsSObKPjBBcO7Le_MAM8YJO7uwPBOny9FV842hLg5mHINeWt3vSvVDGBWpup1v9e8G3Up3xf7NDvrX-GEQWd29IMwLGQuWv3BJe5Kql5sX9Q7WEUQHW0-TBl_Ai_XG53McMdzshU94.jpg?r=7f9",
+        "modalId": "middle-center-modal-2",
+        "alt": "Meet the Khumalos"
+    },
+    {
+        "id": 3,
+        "bgImage": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABRPO0jAfsyQWnwpSPku2Lw85SYFdCONuXb0W0kubs6btNpAsA2sJylkFDwaLfb-U0KLOaLb0rPkVyINN_ZBBaqEvtsq6pgkc8f-W1Wv2e8LC48wHPs4Y9dsZya4JOZoE2vAiuI6LySUr5sNJdw-oYJg5r1T26QwcHRNvZ-_jtEmGfUYZ81es_IqsN1IPrwy_OTvQeKbd7no6ue5G.jpg?r=532",
+        "modalId": "middle-center-modal-4",
+        "alt": "Forever"
+    },
+    {
+        "id": 4,
+        "bgImage": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABQpQsoasxUXrd-euParQRvfxeaP3oQYWMwsf2HMgBx-PouSzcxS600iROq1HeRLeEoWlSYf29RgEMMPP3LUNBGrbtNxsxuv_ynCAaiBPpL6cjK9EvsxVKWjeXpZlhs16EjtldzbDqqICxas4w2UR1FmZ43bV0xN1K5ljTJwLS4CggtHvB55tsaTjERtWPmCGqKhsiZFS_bP5ejYLUm1IaAhhcTIoGc-6b7AOWQ.jpg?r=3de",
+        "modalId": "middle-center-modal-5",
+        "alt": "HAVOC"
+    },
+    {
+        "id": 5,
+        "bgImage": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABb7cA75JsXWKsHbHaqY720IVmjUyoK153jAGVJbUSE4Rii5mFT7eH7c9ZHLS0LSuYqKSsHQAcJsrOX4HcP9kErwE9A2mKH5bios_4rmKx-dHv5OoXbEUCijfraNTtinCDVF_tZXX6hb_pdrL_xNdFx7709HB-yBlXbSSG24-2MRyJ3fYZbi70NRRpr6J0Yl-tDC532hDR_5UAWPk.jpg?r=647",
+        "modalId": "middle-center-modal-7",
+        "alt": "EXTERRITORIAL"
+    },
+    {
+        "id": 6,
+        "bgImage": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABem5AhUuXnmxYrqzSeo79ZBeh30upf3mgGUuwhY5z-M9u5EA9_m1unn2S9AFj9t8l3iFCbeLyp2BwPcc3y-Qz5q932xjOxQFRSGIAYkQu5ZiJDq28csCZeWpuTRDN1v2VeyePxQy5oiKAIsF8MTAqNQG3rFYIjEziEoDQ-AnV3Vgjp6MR766Ojc9ijQktZ3mgHA1fT9ZY0SyDzQW.jpg?r=7e9",
+        "modalId": "middle-center-modal-9",
+        "alt": "YOU"
+    },
+    {
+        "id": 7,
+        "bgImage": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABTMx8Fb_wuoIFFfz0VPha5DWNx4jPexxhLHHE3qyE-1OnLD3gH_tUrLqNyc-6J45rsZNKz85gbZauGKe-Gw7vQXZ3_ImwoK52ZfIz1ayScBDf3GhR3-WV-_jMeFpxeejMNInV8ESFZ18wJyiybtYPyST5uGpPh-GJD5NXhHTqSZx2Gpi28mH8RO_pbNZH0Xo50ANQGxQ8TVeWpB_.webp?r=53d",
+        "modalId": "middle-center-modal-7",
+        "alt": "Beauty in Black"
+    },
+    {
+        "id": 8,
+        "bgImage": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABfBGldzwz21RZgKBfZyzsoQ1PF-F6M6jozzoVzIw27oFmzS5XFf0ak7ju2jjY7fPz47h48YpqArO0xwUAlqRNA-MYonZKkfB-Vj-59bCCUhiIEDTXz7gFRrgpiDVwEPMse-f7Pnk-yQJlwW0nHgy0Qk2L3YYgPR0L2klKx6ikm1h_MzSH8FrQGbHC8lgmG-Eb5uQWa98vU5drU_-fpT3lKQXPO0G8Wlv9qcuIg.webp?r=057",
+        "modalId": "middle-center-modal-8",
+        "alt": "Last Bullet"
+    },
+    {
+        "id": 9,
+        "bgImage": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABcacQqzJa5F5pdj8VIQj1bsGWSl2L6gv7o64Pco5Eld1zqoWg-aUDMOQuZUT5MEfQcTZ7oj0WA8RlImFX1OKYNdHErkb23fNRKAqEeXzzcr4VnUiOTfKQcXvq3roMIPLL4bT0iocXGeJM0rYanT_.webp?r=607",
+        "modalId": "middle-center-modal-9",
+        "alt": "Prison Break"
+    },
+    {
+        "id": 10,
+        "bgImage": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABUr-zglIO7RlalM9PdOgOEAOUmIHhY6_HPGh21HTdC1J9nkTkqRvPmSCWgoipS9Dsx2JlJmllanAVTRn_7UDl7wfsmyk4HT_zhFuff-ioX-XlLYgzXb5RUKu8dkLIidZZi8ZnR49LwXyiHQvkWDarKn4snK5WNqSsT-AqHVcpM4ulvIaiaS-B3IWiJhDRqbY8jJ1Kkjl9zbnI8mz6Us4wK5cwCaL8hvqHGI9cg.webp?r=e8c",
+        "modalId": "middle-center-modal-10",
+        "alt": "Bad Influence"
+    }
+]

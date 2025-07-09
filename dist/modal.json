@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Unseen",
+        "modalHeaderBg": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYP0fo66RfJqMjtxG74h6kLHYLNvN7LDi11LiBFsMCMvYAOQ6ENVvHwwqsl-v2tGyeg58BJ3BZCZHObBUn-B1CwALCPa5s4kwMq7.jpg?r=f11",
+        "modalLogo": "netflix-series",
+        "modalTitle": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABcUWhZfOZaXUdls1JI2J-Zv5XSte6aWvil-aol1G8Gf114lJQoebHuyI6z0y9CFuWWQkS9PMdxHdqvhmZt_tnIiZiqC3ynUotQ.webp?r=5fb",
+        "year": "2025",
+        "age": "16",
+        "type": "Show",
+        "genre": ["Thrillers", "Dramas"],
+        "description": "A house cleaner desperately searches for her husband as a dreaded criminal syndicate dredges up past tragedies and ultimately drives her to violence."
+    },
+    {
+        "id": 2,
+        "name": "Meet the Khumalos",
+        "modalHeaderBg": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfKAzhapcm63mRyuxDy1o8uy_vEwrDyJS-qYQBPKqprsdubUkVVSdm24yZDSqQ6wN3B66ov27ai8GvC5yJHxQJkOw1YMXB5DcJBk.jpg?r=1b4",
+        "modalLogo": "netflix-film",
+        "modalTitle": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABdu1TV0u5giN1Dcobi8DB1wdCtPhSAWQZbVrh4_vkx17A4yKK8KLv0cDrPbQLAHw3iC-CttZvqdEcZPIZ_g3rYJWLWIwUpIatQ.png?r=3c3",
+        "year": "2025",
+        "age": "13",
+        "type": "Movie",
+        "genre": ["Comedies", "Romance", "Dramas"],
+        "description": "Two moms — once best friends, now arch-enemies — start a neighborhood war against each other when they find out their kids are head-over-heels in love."
+    },
+    {
+        "id": 3,
+        "name": "Forever",
+        "modalHeaderBg": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABckSWGJ81hV7UVR59Jxv7qkrwaBkbFpfmDQQo0iDVKtgP4mT_n3Rh2u8TpTBrMq8v7Jxqf8LOaB07xWFOpL8v6w0lZWAIt5Tp1ji.jpg?r=5bd",
+        "modalLogo": "netflix-series",
+        "modalTitle": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABcoGdrSKRZ0F7D_Ax4DP-2GY9Dr-S-LBX-EbeLZQf-c2rjPeYCa6QnluAmY9uL-1iB_Ff_nPRrG4QS2kIygCX8Jw1LiZxK4mBQ.png?r=2fa",
+        "year": "2025",
+        "age": "16",
+        "type": "Show",
+        "genre": ["Romance", "Dramas"],
+        "description": "Reunited as teens, two childhood friends fall deeply in love, experiencing the joy and heartache of a first romance that will change their lives forever."
+    },
+    {
+        "id": 4,
+        "name": "Havoc",
+        "modalHeaderBg": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABe95ZgQ0ECGrlNqbALr-EQDOQhXL4tNXvnXwjEGnZhkLTnWwnvQauaXD7NQ6Ph1GR4XCkSr6rUsJP249L6OShaAdBDvLaAwUY6SD.jpg?r=55f",
+        "modalLogo": "netflix-film",
+        "modalTitle": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABdfLs3iaL8KoopbC4jHeScm3_1LwphrRkA4BFqUJCX72Fz92oZ9Ra8YVjMvvrhXnlewAMzIQbO0IBApA2wBVmy1oBDyKujIsSQ.png?r=fee",
+        "year": "2025",
+        "age": "16",
+        "type": "Movie",
+        "genre": ["Action", "Thrillers"],
+        "description": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son."
+    },
+    {
+        "id": 5,
+        "name": "Exterritorial",
+        "modalHeaderBg": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYmA36EKCyXLTQdmaZ_HJmW-4q7lY6aoJcHoGqsZrO8Ni8_fNZGJk0sr9kZPRU6LHu7mVC2Uh_g8flD9irwgzGhwvxgrAqg91fQT.jpg?r=cbd",
+        "modalLogo": "netflix-film",
+        "modalTitle": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABR0SHl_0LatuolhKmzLM1H7PBiMMdAlvEHr1qAaIWFcNfyGZj-qvx0pGRxqYDoBpnD73tF_jCHqFUlQIf1_QD-wJqt1_LY5AlQ.png?r=e73",
+        "year": "2025",
+        "age": "13",
+        "type": "Movie",
+        "genre": ["Action", "Thrillers"],
+        "description": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him — and uncovers a dark conspiracy."
+    },
+    {
+        "id": 6,
+        "name": "YOU",
+        "modalHeaderBg": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABem5AhUuXnmxYrqzSeo79ZBeh30upf3mgGUuwhY5z-M9u5EA9_m1unn2S9AFj9t8l3iFCbeLyp2BwPcc3y-Qz5q932xjOxQFRSGIAYkQu5ZiJDq28csCZeWpuTRDN1v2VeyePxQy5oiKAIsF8MTAqNQG3rFYIjEziEoDQ-AnV3Vgjp6MR766Ojc9ijQktZ3mgHA1fT9ZY0SyDzQW.jpg?r=7e9",
+        "modalLogo": "netflix-series",
+        "modalTitle": "https://occ-0-1527-34.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABZEcyOOFaXCkExFV9DroalyBu8uQXeCJoI1eIQ1aAaW8pMCAN5tqS_H6gubpDQ_FpfLeqRM37QONWqkN9mbKiwtYt1hMK_Y6CQ.png?r=da5",
+        "year": "2025",
+        "age": "16",
+        "type": "Show",
+        "genre": ["Thrillers", "Dramas"],
+        "description": "A dangerously charming, obsessive man goes to extreme measures to insert himself into the lives of women who fascinate him."
+    },
+    {
+        "id": 7,
+        "name": "Beauty in Black",
+        "modalHeaderBg": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABccXNHtQNEfuB6W0iADoxUQLy_F32hwVWla4C38p4gw8Qz1JwvuMWYmp2QUvBwWJE7P4v-DQKepe-LHO1-ZioIcwsfFurMRxndwu.webp?r=456",
+        "modalLogo": "netflix-series",
+        "modalTitle": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABatxtoPwQHGVrI6k3FJiaJvHJNCQ3WVW3Y_sFy7bDPKMuOcGrLj6i4GXx3fhTyggyjmXsaGVQuTQFhlEmyoa5yqzpVduWQJxnw.webp?r=116",
+        "year": "2024",
+        "age": "16",
+        "type": "Show",
+        "genre": ["Dramas"],
+        "description": "An exotic dancer's fate takes a turn when she crosses paths with the dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme."
+    },
+    {
+        "id": 8,
+        "name": "Last Bullet",
+        "modalHeaderBg": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdZHBHSAFAMtahJAG6uDnZGsloflbIdrTHdmoWS5pjTCS0oIN6B1CsfbF1p_ib8qi98Ke7Rv3ScW-Y4j0Len88TjSYZxkOVL4cAg.webp?r=914",
+        "modalLogo": "netflix-film",
+        "modalTitle": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABfy7oBgR64T0ue2oDOZMi86dKQMsAKM8pNSSIfKxNME5_fRTVcwfBfjjwK9qGhda3IwQ0PDAbDdRTOTeaiqSFjqNR72J6S_NwQ.webp?r=3f0",
+        "year": "2025",
+        "age": "16",
+        "type": "Movie",
+        "genre": ["Action"],
+        "description": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale."
+    },
+    {
+        "id": 9,
+        "name": "Prison Break",
+        "modalHeaderBg": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRiyvR823fFqndTwie664PUBIVED_nqazAKXGxEeMz2teUQAwGG0-tKqVcs3MLrGZP1go4WESMCKRgp2J86Rt2a_Y1OObl0EX02_.webp?r=721",
+        "modalLogo": "netflix-series",
+        "modalTitle": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABZ25kHCb35arVe6rjDouSWSNpwq2jqE6XOdE9JW6kw91fPdxzzsJstqE_giEDl7hHc3NnzVGz2V0rbaBN-LK_A6LzyWjpZqENg.webp?r=6e4",
+        "year": "2017",
+        "age": "16",
+        "type": "Show",
+        "genre": ["Action"],
+        "description": "When his brother is wrongly convicted of murder, a structural engineer resolves to bust his sibling out of the notorious Fox River State Penitentiary."
+    },
+    {
+        "id": 10,
+        "name": "Bad Influence",
+        "modalHeaderBg": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaV2GBdF2PDacQcN9u5dzdeLxPaDoLCwDy0HZeJDJ-wqnEfg8T9G9n_LLQP2H0d_8LtSY-hnSS_M2lbysbtuy13RBQclu-Pl5JJe.webp?r=35c",
+        "modalLogo": "netflix-film",
+        "modalTitle": "https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABe0QldQvU9GM0qI_zxbQeUxTmEYnLu6MkYIHtCzC55Ud9_AbcN2NYC_BzC_RMo9pVpw7oOJG16jMDXMPEpw1Qdwcvx3lbwt05Q.webp?r=0e6",
+        "year": "2025",
+        "age": "13",
+        "type": "Show",
+        "genre": ["Thrillers"],
+        "description": "An ex-con gets a fresh start when hired to protect a wealthy heiress from a stalker — but their chemistry is hard to resist as they grow closer."
+    }
+]

@@ -1,0 +1,93 @@
+.bg-one, .bg-two, .bg-three, .bg-four, .bg-five, .bg-six, .bg-seven, .bg-eight, .bg-nine, .bg-ten, .bg-modal-one, .bg-modal-two, .bg-modal-three, .bg-modal-four, .bg-modal-five, .bg-modal-six, .bg-modal-seven, .bg-modal-eight, .bg-modal-nine, .bg-modal-ten {
+	background-position: center center;
+	/* background-size: cover; */
+	/* background-attachment: fixed; */
+	background-repeat: no-repeat;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+}
+
+.netflix-series {
+	content: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABbNrwq1XsB3xgXUQKul5qNaNmOh2G4ZCkd3nhEjUlEyLglmD1QJpWqKikXAdTW_emOU4012P4iCATEHbRtso-jLKHSHWgvTB.png?r=1de");
+	alt: "Netflix Series";
+}
+
+.netflix-film {
+	content: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUp8QHXB-R_xB56p_Mg-Bn3mThfx1whjrEtf8nstI6IwJheQPbc2d9o-XoU3IdkefWg0m6MWtePfDXbYZwcjsDD9vg42TmLG.png?r=630");
+	alt: "Netflix Film";
+}
+
+.bg-one {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABaaNARSazDYjPyMukpPHzbWoyKfzEO5mGvdE3YNjzLmwsJV8leB7zrPkowCLZ0En5BAztW5t2V4pNzTfpTuH9IRF5qjrEQqcwN_OpnxSyBldSsVsSxbmR1LRLbfkB_MWwezaP621hsfVGS4DEldww-B186F6hLCSV71XKPJepdxtM7vK0f26bQTlOdwAY4KDFzNRrZqxAVCAH7Vo.jpg?r=d51");
+}
+
+.bg-modal-one {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYP0fo66RfJqMjtxG74h6kLHYLNvN7LDi11LiBFsMCMvYAOQ6ENVvHwwqsl-v2tGyeg58BJ3BZCZHObBUn-B1CwALCPa5s4kwMq7.jpg?r=f11");
+}
+
+.bg-modal-one-title {
+	content: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABRpPhUfDPmAtYKPYYvXnXFoph6HAbnrGh9b0n-WK2p0ajV9M3kg-YTBABLdmxuIxbT7qlh-pR8X8YnStwtiJGJuzmZtSzOuHUg.png?r=5fb");
+}
+
+.bg-two {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/-klpX4b1RECP-oGX3Uvz90PrgHE/AAAABfbSzznS8J-N64_oPCsQ3qtntFn5xE3vI5pUcpnLGlngwBj2QC3UB4zKSAD2EbCXk9zMPMsTAv7eukAgbEJnFOZGvPuVjZEWBTY6mkF_fGZWr40eKLZI0UBBGyS8Au6GdCc2f107yEz5FewFfvx1gfcADtJAVIepP4ShAHVEffAeLGD1RLNILJovTqwG0KspP3QTBIz7XT8Q6Ler.jpg?r=7f9");
+}
+
+/* .bg-modal-two {
+} */
+
+.bg-three {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABQpQsoasxUXrd-euParQRvfxeaP3oQYWMwsf2HMgBx-PouSzcxS600iROq1HeRLeEoWlSYf29RgEMMPP3LUNBGrbtNxsxuv_ynCAaiBPpL6cjK9EvsxVKWjeXpZlhs16EjtldzbDqqICxas4w2UR1FmZ43bV0xN1K5ljTJwLS4CggtHvB55tsaTjERtWPmCGqKhsiZFS_bP5ejYLUm1IaAhhcTIoGc-6b7AOWQ.jpg?r=3de");
+}
+
+/* .bg-modal-three {
+} */
+
+.bg-four {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABb7cA75JsXWKsHbHaqY720IVmjUyoK153jAGVJbUSE4Rii5mFT7eH7c9ZHLS0LSuYqKSsHQAcJsrOX4HcP9kErwE9A2mKH5bios_4rmKx-dHv5OoXbEUCijfraNTtinCDVF_tZXX6hb_pdrL_xNdFx7709HB-yBlXbSSG24-2MRyJ3fYZbi70NRRpr6J0Yl-tDC532hDR_5UAWPk.jpg?r=647");
+}
+
+/* .bg-modal-four {
+} */
+
+.bg-five {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABem5AhUuXnmxYrqzSeo79ZBeh30upf3mgGUuwhY5z-M9u5EA9_m1unn2S9AFj9t8l3iFCbeLyp2BwPcc3y-Qz5q932xjOxQFRSGIAYkQu5ZiJDq28csCZeWpuTRDN1v2VeyePxQy5oiKAIsF8MTAqNQG3rFYIjEziEoDQ-AnV3Vgjp6MR766Ojc9ijQktZ3mgHA1fT9ZY0SyDzQW.jpg?r=7e9");
+}
+
+/* .bg-modal-five {
+} */
+
+.bg-six {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABRPO0jAfsyQWnwpSPku2Lw85SYFdCONuXb0W0kubs6btNpAsA2sJylkFDwaLfb-U0KLOaLb0rPkVyINN_ZBBaqEvtsq6pgkc8f-W1Wv2e8LC48wHPs4Y9dsZya4JOZoE2vAiuI6LySUr5sNJdw-oYJg5r1T26QwcHRNvZ-_jtEmGfUYZ81es_IqsN1IPrwy_OTvQeKbd7no6ue5G.jpg?r=532");
+}
+
+/* .bg-modal-six {
+} */
+
+.bg-seven {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABa_IUYsvCB6ZdOsMbubqn0aVLyvb_SH8GkM5_0ext6y9MtvDtrzMfTWPypHKWXOihmRbQs5N9-_ypwB9Lw0eWyrF7ltYoMo2XaEZSyQkhrhPkXQJoj0gtuyAVbJ1Q7axHlLfroac793rdUCToi_MuPFIGEkI-7gQRlXON1dNbzds8ZRKqckZc6evycOSI7JjOnoN3qXjwtCMXo8UQ9ZDRvE0CuOB2rq4hWRo8w.jpg?r=057");
+}
+
+/* .bg-modal-seven {
+} */
+
+.bg-eight {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABXFX6vUVYkVZVwpGmLij0A-wa_YxcdKwbtt-q20w4GTfwv0fLlppY5dvvmnw2eiqQgn2lnlkGB6wPlQdZJuExygN04YgWubnm5vSEcvQZe7aacEH1xX1itMcrBZIWvAmiUFPp2JUkSFEV3Gii4uEi__vWqH-Y0KcVaHFvObG0VzEq7Jce9fahHnDwv5rc4WMExDwgBiB_G7WF-e23H5z6CXQGzWxZUpkqiE3GA.jpg?r=bac");
+}
+
+/* .bg-modal-eight {
+} */
+
+.bg-nine {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABQTrPAwNICoSpON_sQycZ9QP_NF0O7knGxsADGcPt9VbqytKfjnfh4Nqh1lY4osv-3WDaFqoHNQa2I5IJa_G1ZaRbjbqDx1Bbylqk4-PmeXegGA80gd9YU4Jzo79v7xx36f5PTwxCzLuOMugrhYM42yrmx2Wj-kjc7p_2VXEHaGN9bMudOU4Y6nN_WZXnO7GkdKR3W6REjO7Ftdw.jpg?r=53d");
+}
+
+/* .bg-modal-nine {
+} */
+
+.bg-ten {
+	background-image: url("https://occ-0-1527-32.1.nflxso.net/dnm/api/v6/1Xnoa4YyyF--XrWl_Rtf3uHztec/AAAABevU7j3liWjwvZNE2myUQVytcBV4642rKhLpdeFwpux27dWXyBNrVlzdQz76LI-rxrgxAhP4lo3HpnxLvW0W7gP17y5tEGhCeBBm2LzVeT58EpgI4HtHTCfL9tQgdClf1s1cyqYyWD1BQyVuGEvC.jpg?r=607");
+}
+
+/* .bg-modal-ten {
+} */
